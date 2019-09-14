@@ -1,13 +1,13 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre:Juan Carlo Garcia Esquivel
+Usuario Platzi: jcmexdev
 
 ## Ciudad
-- [ ] Ciudad de México
+- [x] Ciudad de México
 - [ ] Bogotá
 
 # Retos:
-  - [ ] Primer problema
-  - [ ] Segundo problema
-  - [ ] Tercer problema
+  - [x] Primer
+  - [x] Segundo problema
+  - [x] Tercer problema
